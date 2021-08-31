@@ -10,4 +10,15 @@
 //console.log(4 % 10);
 //console.log("westin328746287351");
 //console.log("cat"+"dog");
-console.log("cat".toUpperCase());
+//console.log("cat".toUpperCase());
+//console.log(false || false);
+//console.log(false || true);
+//console.log(true || false);
+//console.log(true || true);
+//console.log(true || !false);
+//console.log(false && false || true);
+//console.log(42 !== 43);
+//=== equal (strict)
+//== equal (loose)
+console.log(42==='42');
+console.log(42=='42');
