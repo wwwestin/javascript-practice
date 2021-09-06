@@ -20,5 +20,5 @@
 //console.log(42 !== 43);
 //=== equal (strict)
 //== equal (loose)
-console.log(42==='42');
-console.log(42=='42');
+//console.log(42==='42');
+//console.log(42=='42');
