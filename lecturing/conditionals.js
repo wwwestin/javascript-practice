@@ -1,10 +1,14 @@
-//let number= 7;
+let name = 'alvin';
 
-//if (number > 0){
-    //console.log('it is positive');
-//}  if (number % 2 === 0) {
-    //console.log('it is even');
-//}
-    
-2:09
 
+if (name.length > 3) {
+    console.log('long name');
+} else {
+    console.log('short name');
+}
+
+if (name[0] === "a") {
+    console.log('starts with a');
+} else {
+    console.log('does not start with a');
+}
