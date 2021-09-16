@@ -1,0 +1,6 @@
+Steps for committing
+1. git status (files should be red)
+2. git add . (this adds all red files. you can also add individual files with git add <filename>)
+3. git status (files should be green, meaning they are staged for committing)
+4. git commit -m "messages goes here describing what you are committing"
+5. git push
